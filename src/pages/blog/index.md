@@ -6,6 +6,10 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Blog
   description: This is the blog page
