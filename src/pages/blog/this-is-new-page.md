@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is a new post
 date: '2021-08-27'
 categories: []
 tags: []
