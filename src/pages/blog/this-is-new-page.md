@@ -1,7 +1,8 @@
 ---
 title: This is a new post
 date: '2021-08-28'
-categories: []
+categories:
+  - src/data/categories/category-his8pft2r.json
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
