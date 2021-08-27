@@ -1,6 +1,6 @@
 ---
 title: This is a new post
-date: '2021-08-27'
+date: '2021-08-28'
 categories: []
 tags: []
 image_alt: lorem-ipsum
